@@ -8,4 +8,12 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="OpenWeatherAPI" Version="1.0.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Pictures\" />
+    </ItemGroup>
+
 </Project>
